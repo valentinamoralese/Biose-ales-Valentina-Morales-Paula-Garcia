@@ -1,2 +1,8 @@
 ECGDataDenoised/
 ECGDataDenoised.zip
+
+ECGData/
+ECGDataDenoised/
+partes_filtradas/
+*.zip
+*.npy
